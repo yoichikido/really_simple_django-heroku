@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-0ibjqvd6fa15ubgaazd8=e2+wkl=!9kr__v6@=6c501+30^z-d
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["secret-island-86226.herokuapp.com"]
 
 
 # Application definition
